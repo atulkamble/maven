@@ -1,3 +1,13 @@
+```
+git clone https://github.com/atulkamble/maven.git
+cd maven/complete
+mvn compile
+mvn package
+java -jar target/gs-maven-0.1.0.jar
+```
+
+
+
 :jdk: https://openjdk.java.net/install/
 :toc:
 :icons: font
