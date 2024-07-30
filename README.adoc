@@ -1,8 +1,23 @@
+// 
+1. Install maven on your machine
+2. clone this repo
 ```
 git clone https://github.com/atulkamble/maven.git
+```
+3. enter in code
+```
 cd maven/complete
+```
+4. compile code
+```
 mvn compile
+```
+5. package code 
+```
 mvn package
+```
+6. crosscheck output
+```
 java -jar target/gs-maven-0.1.0.jar
 ```
 
